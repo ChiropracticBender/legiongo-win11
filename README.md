@@ -8,5 +8,6 @@
 - Install Legion Space
 - Install GOG
 - Rotate Display https://github.com/ChiropracticBender/legiongo-win11/issues/2
+- Install https://github.com/CaffeinatedDragonWare/WindowsHandheldMod
 
 
