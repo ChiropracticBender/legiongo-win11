@@ -7,6 +7,6 @@
 - Install Quick Share
 - Install Legion Space
 - Install GOG
-- https://github.com/ChiropracticBender/legiongo-win11/issues/2
+- Rotate Display https://github.com/ChiropracticBender/legiongo-win11/issues/2
 
 
